@@ -1,0 +1,45 @@
+Feature,Coefficient,OddsRatioPer1SD,Effect
+OverTime_Yes,0.784,2.19,Raises attrition risk
+YearsAtCompany,0.681,1.975,Raises attrition risk
+BusinessTravel_Travel_Frequently,0.668,1.95,Raises attrition risk
+MaritalStatus_Single,0.578,1.782,Raises attrition risk
+JobRole_Laboratory Technician,0.572,1.771,Raises attrition risk
+YearsWithCurrManager,-0.524,0.592,Lowers attrition risk
+YearsSinceLastPromotion,0.503,1.653,Raises attrition risk
+YearsInCurrentRole,-0.492,0.612,Lowers attrition risk
+JobRole_Sales Representative,0.458,1.582,Raises attrition risk
+BusinessTravel_Travel_Rarely,0.454,1.575,Raises attrition risk
+Department_Sales,0.441,1.554,Raises attrition risk
+EnvironmentSatisfaction,-0.436,0.646,Lowers attrition risk
+TotalWorkingYears,-0.42,0.657,Lowers attrition risk
+NumCompaniesWorked,0.406,1.501,Raises attrition risk
+Department_Research & Development,0.402,1.494,Raises attrition risk
+JobSatisfaction,-0.401,0.669,Lowers attrition risk
+JobRole_Human Resources,0.365,1.441,Raises attrition risk
+JobRole_Sales Executive,0.356,1.427,Raises attrition risk
+EducationField_Life Sciences,-0.354,0.702,Lowers attrition risk
+JobInvolvement,-0.318,0.728,Lowers attrition risk
+DistanceFromHome,0.302,1.352,Raises attrition risk
+EducationField_Medical,-0.283,0.754,Lowers attrition risk
+MaritalStatus_Married,0.276,1.317,Raises attrition risk
+JobRole_Research Director,-0.255,0.775,Lowers attrition risk
+JobRole_Research Scientist,0.239,1.27,Raises attrition risk
+TrainingTimesLastYear,-0.237,0.789,Lowers attrition risk
+RelationshipSatisfaction,-0.23,0.794,Lowers attrition risk
+WorkLifeBalance,-0.211,0.81,Lowers attrition risk
+Age,-0.181,0.834,Lowers attrition risk
+Gender_Male,0.177,1.194,Raises attrition risk
+PercentSalaryHike,-0.175,0.839,Lowers attrition risk
+JobLevel,0.166,1.181,Raises attrition risk
+StockOptionLevel,-0.136,0.873,Lowers attrition risk
+EducationField_Other,-0.133,0.875,Lowers attrition risk
+DailyRate,-0.131,0.878,Lowers attrition risk
+JobRole_Manufacturing Director,0.126,1.134,Raises attrition risk
+EducationField_Technical Degree,0.121,1.128,Raises attrition risk
+EducationField_Marketing,-0.098,0.906,Lowers attrition risk
+MonthlyIncome,-0.091,0.913,Lowers attrition risk
+PerformanceRating,0.073,1.075,Raises attrition risk
+MonthlyRate,0.057,1.059,Raises attrition risk
+JobRole_Manager,-0.052,0.949,Lowers attrition risk
+HourlyRate,-0.015,0.985,Lowers attrition risk
+Education,0.0,1.0,Raises attrition risk

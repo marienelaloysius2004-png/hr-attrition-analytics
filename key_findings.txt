@@ -1,0 +1,15 @@
+KEY FINDINGS (numbers to paste into your memo)
+==================================================
+- Headcount analysed: 1470. Leavers: 237. Overall attrition: 16.1%.
+- Overtime: 30.5% attrition with overtime vs 10.4% without (2.9x higher).
+- Highest-attrition segments (min. 30 employees):
+    * JobRole = Sales Representative: 39.8% (33 of 83 left)
+    * AgeBand = 1. 18-25: 35.8% (44 of 123 left)
+    * TenureBand = 1. 0-1 yrs: 34.9% (75 of 215 left)
+    * WorkLifeBalance = 1: 31.2% (25 of 80 left)
+    * OverTime = Yes: 30.5% (127 of 416 left)
+    * IncomeBand = 1. Q1 (lowest pay): 29.3% (108 of 369 left)
+- Model: logistic regression, ROC-AUC 0.80 on unseen data (random forest 0.79).
+- Top 3 risk drivers: OverTime_Yes, YearsAtCompany, BusinessTravel_Travel_Frequently.
+- Cost of past attrition (assuming 50% of annual salary per leaver): $6,807,246.
+- 97 current employees are High flight-risk, exposing $3,068,322. Retaining 20% would save about $613,664.

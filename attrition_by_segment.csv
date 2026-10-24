@@ -1,0 +1,57 @@
+Segment,Group,Employees,Leavers,AttritionRate
+Department,Human Resources,63,12,19.0
+Department,Research & Development,961,133,13.8
+Department,Sales,446,92,20.6
+JobRole,Healthcare Representative,131,9,6.9
+JobRole,Human Resources,52,12,23.1
+JobRole,Laboratory Technician,259,62,23.9
+JobRole,Manager,102,5,4.9
+JobRole,Manufacturing Director,145,10,6.9
+JobRole,Research Director,80,2,2.5
+JobRole,Research Scientist,292,47,16.1
+JobRole,Sales Executive,326,57,17.5
+JobRole,Sales Representative,83,33,39.8
+OverTime,No,1054,110,10.4
+OverTime,Yes,416,127,30.5
+BusinessTravel,Non-Travel,150,12,8.0
+BusinessTravel,Travel_Frequently,277,69,24.9
+BusinessTravel,Travel_Rarely,1043,156,15.0
+MaritalStatus,Divorced,327,33,10.1
+MaritalStatus,Married,673,84,12.5
+MaritalStatus,Single,470,120,25.5
+Gender,Female,588,87,14.8
+Gender,Male,882,150,17.0
+JobSatisfaction,1,289,66,22.8
+JobSatisfaction,2,280,46,16.4
+JobSatisfaction,3,442,73,16.5
+JobSatisfaction,4,459,52,11.3
+WorkLifeBalance,1,80,25,31.2
+WorkLifeBalance,2,344,58,16.9
+WorkLifeBalance,3,893,127,14.2
+WorkLifeBalance,4,153,27,17.6
+EnvironmentSatisfaction,1,284,72,25.4
+EnvironmentSatisfaction,2,287,43,15.0
+EnvironmentSatisfaction,3,453,62,13.7
+EnvironmentSatisfaction,4,446,60,13.5
+TenureBand,1. 0-1 yrs,215,75,34.9
+TenureBand,2. 2-3 yrs,255,47,18.4
+TenureBand,3. 4-5 yrs,306,40,13.1
+TenureBand,4. 6-10 yrs,448,55,12.3
+TenureBand,5. 10+ yrs,246,20,8.1
+AgeBand,1. 18-25,123,44,35.8
+AgeBand,2. 26-35,606,116,19.1
+AgeBand,3. 36-45,468,43,9.2
+AgeBand,4. 46-55,226,26,11.5
+AgeBand,5. 56+,47,8,17.0
+IncomeBand,1. Q1 (lowest pay),369,108,29.3
+IncomeBand,2. Q2,366,52,14.2
+IncomeBand,3. Q3,367,39,10.6
+IncomeBand,4. Q4 (highest pay),368,38,10.3
+PromotionBand,1. Promoted this year,581,110,18.9
+PromotionBand,2. 1-2 yrs ago,516,76,14.7
+PromotionBand,3. 3-5 yrs ago,158,16,10.1
+PromotionBand,4. 6+ yrs ago,215,35,16.3
+StockOptionLevel,0,631,154,24.4
+StockOptionLevel,1,596,56,9.4
+StockOptionLevel,2,158,12,7.6
+StockOptionLevel,3,85,15,17.6
