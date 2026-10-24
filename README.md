@@ -1,7 +1,7 @@
 # HR Attrition Analytics: Who Leaves, Why, and Who Is Next
 
 **Live dashboard:** [Overview](https://public.tableau.com/views/HRAttritionAnalytics_17928609810060/Overview) | [Flight Risk watchlist](https://public.tableau.com/views/HRAttritionAnalytics_17928609810060/FlightRisk)
-**Recommendations memo:** [`Attrition_Recommendations.pdf.pdf`](memo/Attrition_Recommendations.pdf)
+**Recommendations memo:** [`Attrition_Recommendations.pdf.pdf`](Attrition_Recommendations.pdf.pdf)
 
 ## Problem
 237 of 1,470 employees left, an attrition rate of **16.1%**, costing an estimated **$6.8M** in replacement costs (assuming 50% of annual salary per leaver). This project finds where attrition is concentrated, what drives it, and which current employees are most at risk, so HR can act early.
